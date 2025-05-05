@@ -1,3 +1,4 @@
 .env
 __pycache__/
 large_docs/
+scripts/Extracting_text.py

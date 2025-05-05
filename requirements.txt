@@ -4,3 +4,4 @@ python-dotenv
 fastapi
 fitz
 langchain
+uvicorn
