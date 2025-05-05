@@ -3,6 +3,8 @@ import os
 import json
 from supabase import create_client
 import openai
+import scripts.Retriving_Similar_Chucks
+
 
 SUPABASE_URL = os.getenv("SUPABASE_URL")
 SUPABASE_KEY = os.getenv("SUPABASE_KEY")
